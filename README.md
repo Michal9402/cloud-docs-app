@@ -4,7 +4,7 @@ A collaborative document editor inspired by Google Docs.
 It allows users to create Markdown files and collaborate with invited users in real-time.
 
 ## Demo
-https://cloud-docs-app.vercel.app/sign-in
+https://cloud-docs-app.vercel.app
 
 ## Tech Stack
 
